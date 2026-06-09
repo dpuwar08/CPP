@@ -1,4 +1,4 @@
-# Core C++ Programming Journey 🚀
+# Core C++ Programming Journey 🚀 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Welcome to my C++ repository! This repository serves as a comprehensive archive of my foundational journey through C++. It features **88 programs** covering core logic, loops, conditional patterns, function mechanics, and standard library components—focusing entirely on mastering language syntax and logic.
 
