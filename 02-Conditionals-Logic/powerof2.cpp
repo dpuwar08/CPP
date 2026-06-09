@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+bool isPowerOfTwo(int n) {
+    
+    return n > 0 && (n & (n - 1)) == 0;
+    
+}
+
+int main() {
+    
+    int num;
+    cin >> num;
+
+    if (isPowerOfTwo(num)) {
+        
+        cout << "true" << endl;
+        
+    } else {
+        
+        cout << "false" << endl;
+        
+    }
+
+    return 0;
+    
+}
