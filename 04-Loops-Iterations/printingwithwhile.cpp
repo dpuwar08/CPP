@@ -10,7 +10,7 @@ int main() {
 
     while (i <= num) {
 
-        cout << i << " "; // for printing the numbers in other line, we use endl instead of " ".
+        cout << i << " "; 
         i++;
 
     }
