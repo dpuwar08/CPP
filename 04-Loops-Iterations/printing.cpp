@@ -8,7 +8,7 @@ int main () {
     cin >> n;
 
     for (int i = 1; i <= n; i++) { 
-        cout << i << " ";  // for printing on the next line use endl instead of " ".
+        cout << i << " ";  
     }
 
     cout << endl;
